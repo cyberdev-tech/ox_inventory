@@ -1,3 +1,10 @@
+# Item Clothes Installation
+
+Refer to INSTALL/tutorial.md for a detailed installation guide.
+
+**If you want custom ox_inventory redesign you can message me in discord: toshko**
+
+![image](preview.png)
 # ox_inventory
 
 A complete inventory system for FiveM, implementing items, weapons, shops, and more without any strict framework dependency.
